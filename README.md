@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! :wave: I'm Adriano
 
-<!--
-**drr00t/drr00t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm a Staff Software Engineer, focusing on Streaming Data Platforms for Analytics and Integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about:
+* Event-Driven Solutions
+* Distributed Processing
+* Lakehouse Architecture
+
+### Current Activities
+:office: Working at **Cobli**</br>
+:black_nib: I write articles on [LinkedIn](https://www.linkedin.com/in/drr00t/) and occasionally at [Data Streaming Architectures](https://drr00t.github.io/)</br>
+:mailbox: How to reach me: [https://www.linkedin.com/in/drr00t/](https://www.linkedin.com/in/drr00t/)</br>
